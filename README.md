@@ -15,4 +15,3 @@ I couldn't find anything like this on the internet, so I decided to make it myse
 # Requirements:
 You will need to install the following libraries with pip:
 - discord
-- ctypes
