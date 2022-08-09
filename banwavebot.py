@@ -1,4 +1,3 @@
-from ctypes import memmove
 import discord
 from discord.ext import commands
 
