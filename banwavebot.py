@@ -9,7 +9,7 @@ guild = client.get_guild(SERVER ID HERE)
 
 @client.command()
 async def members(ctx):
-    count = 900
+    count = 0
     for guild in client.guilds:
         for member in guild.members:
             print(member)
